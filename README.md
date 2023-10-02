@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devFormation
 - 👀 I’m interested in 3D and Game Development
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning Unity & C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me support@devformation.ru
 
